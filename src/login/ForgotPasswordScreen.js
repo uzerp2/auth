@@ -5,9 +5,11 @@ import {
     View,
     ScrollView,
     TextInput,
-    AsyncStorage
+    // AsyncStorage
 
 } from 'react-native';
+
+import AsyncStorage from '@react-native-community/async-storage';
 
 // import validateEmail from '../api';
 

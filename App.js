@@ -63,6 +63,7 @@ import SignInScreen from './src/login/SignInScreen';
 import AuthLoadingScreen from './src/AuthLoadingScreen';
 
 import ForgotPasswordScreen from './src/login/ForgotPasswordScreen';
+// import ForgotPasswordScreen from './src/login/ForgotPasswordScreenHooks';
 import RegistrationScreen from './src/login/RegistrationScreen';
 
 

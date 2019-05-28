@@ -1,6 +1,6 @@
 import React from 'react';
 import {
-  AsyncStorage,
+  // AsyncStorage,
   Button,
   StyleSheet,
   View,
@@ -11,6 +11,8 @@ import {
   Image
 
 } from 'react-native';
+
+import AsyncStorage from '@react-native-community/async-storage';
 
 import LogoScreen from '../app/LogoScreen';
 

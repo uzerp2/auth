@@ -7,10 +7,14 @@ import {
     TextInput,
     TouchableOpacity,
     Image,
-    AsyncStorage,
+    // AsyncStorage,
     Text,
 
 } from 'react-native';
+
+
+
+import AsyncStorage from '@react-native-community/async-storage';
 
 import { _validateEmail, _validatePassword } from '../api/Api';
 import {_userRegisterFetch } from '../api/ApiFetch';
